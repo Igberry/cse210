@@ -2,3 +2,4 @@ SimpleGoal,[X],[ ]
 EternalGoal,[ ],0 time(s)
 ChecklistGoal,Completed 0/10 times,Completed 0/0 times
 EternalGoal,Go to the temple,0 time(s)
+EternalGoal,attend a wedding,1 time(s)
